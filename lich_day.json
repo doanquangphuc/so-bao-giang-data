@@ -1372,11 +1372,31 @@
   {
     "ngay": "10/11/2026",
     "thu": "Thứ 3",
+    "tiet": "1",
+    "lop": "12/4",
+    "mon": "VẬT LÍ 12",
+    "ppct": "19",
+    "bai": "Bài 8. Mô hình động học phân tử chất khí (2)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "10/11/2026",
+    "thu": "Thứ 3",
     "tiet": "2",
     "lop": "12/4",
     "mon": "CNCN 12",
     "ppct": "17",
     "bai": "Bài 8: Hệ thống điện trong gia đình (t3)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "10/11/2026",
+    "thu": "Thứ 3",
+    "tiet": "2",
+    "lop": "12/4",
+    "mon": "CNCN 12",
+    "ppct": "19",
+    "bai": "Kiểm tra giữa kì I",
     "tbdh": ""
   },
   {
@@ -1392,11 +1412,31 @@
   {
     "ngay": "10/11/2026",
     "thu": "Thứ 3",
+    "tiet": "3",
+    "lop": "12/7",
+    "mon": "VẬT LÍ 12",
+    "ppct": "19",
+    "bai": "Bài 8. Mô hình động học phân tử chất khí (2)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "10/11/2026",
+    "thu": "Thứ 3",
     "tiet": "4",
     "lop": "12/7",
     "mon": "VẬT LÍ 12",
     "ppct": "18",
     "bai": "Bài 8. Mô hình động học phân tử chất khí (1)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "10/11/2026",
+    "thu": "Thứ 3",
+    "tiet": "4",
+    "lop": "12/7",
+    "mon": "VẬT LÍ 12",
+    "ppct": "20",
+    "bai": "Bài 9. Định luật Boyle (1)",
     "tbdh": ""
   },
   {
@@ -1410,6 +1450,16 @@
     "tbdh": ""
   },
   {
+    "ngay": "10/11/2026",
+    "thu": "Thứ 3",
+    "tiet": "5",
+    "lop": "12/8",
+    "mon": "CNCN 12",
+    "ppct": "19",
+    "bai": "Kiểm tra giữa kì I",
+    "tbdh": ""
+  },
+  {
     "ngay": "11/11/2026",
     "thu": "Thứ 4",
     "tiet": "1",
@@ -1417,6 +1467,16 @@
     "mon": "HĐTN 12",
     "ppct": "25",
     "bai": "CĐ3 Hoàn thiện bản thân (t5)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "11/11/2026",
+    "thu": "Thứ 4",
+    "tiet": "1",
+    "lop": "12/12",
+    "mon": "HĐTN 12",
+    "ppct": "28",
+    "bai": "CĐ3 Hoàn thiện bản thân (t8)",
     "tbdh": ""
   },
   {
@@ -1432,6 +1492,16 @@
   {
     "ngay": "11/11/2026",
     "thu": "Thứ 4",
+    "tiet": "3",
+    "lop": "11/8",
+    "mon": "CNCN 11",
+    "ppct": "19",
+    "bai": "Bài 8. Một số phương pháp gia công cơ khí (t3)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "11/11/2026",
+    "thu": "Thứ 4",
     "tiet": "4",
     "lop": "12/7",
     "mon": "HĐTN 12",
@@ -1442,11 +1512,31 @@
   {
     "ngay": "11/11/2026",
     "thu": "Thứ 4",
+    "tiet": "4",
+    "lop": "12/7",
+    "mon": "HĐTN 12",
+    "ppct": "28",
+    "bai": "CĐ3 Hoàn thiện bản thân (t8)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "11/11/2026",
+    "thu": "Thứ 4",
     "tiet": "5",
     "lop": "12/7",
     "mon": "HĐTN 12",
     "ppct": "26",
     "bai": "CĐ3 Hoàn thiện bản thân (t6)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "11/11/2026",
+    "thu": "Thứ 4",
+    "tiet": "5",
+    "lop": "12/7",
+    "mon": "HĐTN 12",
+    "ppct": "29",
+    "bai": "CĐ3 Hoàn thiện bản thân (t9)",
     "tbdh": ""
   },
   {
@@ -1462,11 +1552,31 @@
   {
     "ngay": "12/11/2026",
     "thu": "Thứ 5",
+    "tiet": "1",
+    "lop": "12/4",
+    "mon": "VẬT LÍ 12",
+    "ppct": "20",
+    "bai": "Bài 9. Định luật Boyle (1)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "12/11/2026",
+    "thu": "Thứ 5",
     "tiet": "2",
     "lop": "12/4",
     "mon": "CNCN 12",
     "ppct": "18",
     "bai": "Ôn tập giữa kì I",
+    "tbdh": ""
+  },
+  {
+    "ngay": "12/11/2026",
+    "thu": "Thứ 5",
+    "tiet": "2",
+    "lop": "12/4",
+    "mon": "CNCN 12",
+    "ppct": "20",
+    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t1)",
     "tbdh": ""
   },
   {
@@ -1482,11 +1592,31 @@
   {
     "ngay": "12/11/2026",
     "thu": "Thứ 5",
+    "tiet": "3",
+    "lop": "12/8",
+    "mon": "CNCN 12",
+    "ppct": "20",
+    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t1)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "12/11/2026",
+    "thu": "Thứ 5",
     "tiet": "5",
     "lop": "12/12",
     "mon": "HĐTN 12",
     "ppct": "26",
     "bai": "CĐ3 Hoàn thiện bản thân (t6)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "12/11/2026",
+    "thu": "Thứ 5",
+    "tiet": "5",
+    "lop": "12/12",
+    "mon": "HĐTN 12",
+    "ppct": "29",
+    "bai": "CĐ3 Hoàn thiện bản thân (t9)",
     "tbdh": ""
   },
   {
@@ -1497,6 +1627,16 @@
     "mon": "HĐTN 12",
     "ppct": "27",
     "bai": "CĐ3 Hoàn thiện bản thân (t7)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "13/11/2026",
+    "thu": "Thứ 6",
+    "tiet": "1",
+    "lop": "12/7",
+    "mon": "HĐTN 12",
+    "ppct": "30",
+    "bai": "CĐ3 Hoàn thiện bản thân (t10)",
     "tbdh": ""
   },
   {
@@ -1512,11 +1652,31 @@
   {
     "ngay": "13/11/2026",
     "thu": "Thứ 6",
+    "tiet": "2",
+    "lop": "12/7",
+    "mon": "VẬT LÍ 12",
+    "ppct": "10CD",
+    "bai": "CĐ1-B4. Chỉnh lưu dòng điện xoay chiều (2)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "13/11/2026",
+    "thu": "Thứ 6",
     "tiet": "3",
     "lop": "12/12",
     "mon": "HĐTN 12",
     "ppct": "27",
     "bai": "CĐ3 Hoàn thiện bản thân (t7)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "13/11/2026",
+    "thu": "Thứ 6",
+    "tiet": "3",
+    "lop": "12/12",
+    "mon": "HĐTN 12",
+    "ppct": "30",
+    "bai": "CĐ3 Hoàn thiện bản thân (t10)",
     "tbdh": ""
   },
   {
@@ -1530,167 +1690,7 @@
     "tbdh": ""
   },
   {
-    "ngay": "14/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "1",
-    "lop": "12/4",
-    "mon": "VẬT LÍ 12",
-    "ppct": "19",
-    "bai": "Bài 8. Mô hình động học phân tử chất khí (2)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "14/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "2",
-    "lop": "12/4",
-    "mon": "CNCN 12",
-    "ppct": "19",
-    "bai": "Kiểm tra giữa kì I",
-    "tbdh": ""
-  },
-  {
-    "ngay": "14/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "3",
-    "lop": "12/7",
-    "mon": "VẬT LÍ 12",
-    "ppct": "19",
-    "bai": "Bài 8. Mô hình động học phân tử chất khí (2)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "14/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "4",
-    "lop": "12/7",
-    "mon": "VẬT LÍ 12",
-    "ppct": "20",
-    "bai": "Bài 9. Định luật Boyle (1)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "14/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "5",
-    "lop": "12/8",
-    "mon": "CNCN 12",
-    "ppct": "19",
-    "bai": "Kiểm tra giữa kì I",
-    "tbdh": ""
-  },
-  {
-    "ngay": "15/11/2026",
-    "thu": "Thứ 4",
-    "tiet": "1",
-    "lop": "12/12",
-    "mon": "HĐTN 12",
-    "ppct": "28",
-    "bai": "CĐ3 Hoàn thiện bản thân (t8)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "15/11/2026",
-    "thu": "Thứ 4",
-    "tiet": "3",
-    "lop": "11/8",
-    "mon": "CNCN 11",
-    "ppct": "19",
-    "bai": "Bài 8. Một số phương pháp gia công cơ khí (t3)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "15/11/2026",
-    "thu": "Thứ 4",
-    "tiet": "4",
-    "lop": "12/7",
-    "mon": "HĐTN 12",
-    "ppct": "28",
-    "bai": "CĐ3 Hoàn thiện bản thân (t8)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "15/11/2026",
-    "thu": "Thứ 4",
-    "tiet": "5",
-    "lop": "12/7",
-    "mon": "HĐTN 12",
-    "ppct": "29",
-    "bai": "CĐ3 Hoàn thiện bản thân (t9)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "16/11/2026",
-    "thu": "Thứ 5",
-    "tiet": "1",
-    "lop": "12/4",
-    "mon": "VẬT LÍ 12",
-    "ppct": "20",
-    "bai": "Bài 9. Định luật Boyle (1)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "16/11/2026",
-    "thu": "Thứ 5",
-    "tiet": "2",
-    "lop": "12/4",
-    "mon": "CNCN 12",
-    "ppct": "20",
-    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t1)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "16/11/2026",
-    "thu": "Thứ 5",
-    "tiet": "3",
-    "lop": "12/8",
-    "mon": "CNCN 12",
-    "ppct": "20",
-    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t1)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "16/11/2026",
-    "thu": "Thứ 5",
-    "tiet": "5",
-    "lop": "12/12",
-    "mon": "HĐTN 12",
-    "ppct": "29",
-    "bai": "CĐ3 Hoàn thiện bản thân (t9)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 6",
-    "tiet": "1",
-    "lop": "12/7",
-    "mon": "HĐTN 12",
-    "ppct": "30",
-    "bai": "CĐ3 Hoàn thiện bản thân (t10)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 6",
-    "tiet": "2",
-    "lop": "12/7",
-    "mon": "VẬT LÍ 12",
-    "ppct": "10CD",
-    "bai": "CĐ1-B4. Chỉnh lưu dòng điện xoay chiều (2)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 6",
-    "tiet": "3",
-    "lop": "12/12",
-    "mon": "HĐTN 12",
-    "ppct": "30",
-    "bai": "CĐ3 Hoàn thiện bản thân (t10)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "17/11/2026",
+    "ngay": "13/11/2026",
     "thu": "Thứ 6",
     "tiet": "5",
     "lop": "11/8",
