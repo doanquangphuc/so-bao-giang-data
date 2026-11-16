@@ -1703,66 +1703,6 @@
     "ngay": "17/11/2026",
     "thu": "Thứ 3",
     "tiet": "1",
-    "lop": "12/4",
-    "mon": "VẬT LÍ 12",
-    "ppct": "21",
-    "bai": "Bài 9. Định luật Boyle (2)",
-    "tbdh": "Bộ TN định luật Boyle"
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "2",
-    "lop": "12/4",
-    "mon": "CNCN 12",
-    "ppct": "21",
-    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t2)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "3",
-    "lop": "12/7",
-    "mon": "VẬT LÍ 12",
-    "ppct": "21",
-    "bai": "Bài 9. Định luật Boyle (2)",
-    "tbdh": "Bộ TN định luật Boyle"
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "4",
-    "lop": "12/7",
-    "mon": "VẬT LÍ 12",
-    "ppct": "22",
-    "bai": "Bài 10. Định luật Charles (1)",
-    "tbdh": "TB chứng minh ĐL Charles"
-  },
-  {
-    "ngay": "17/11/2026",
-    "thu": "Thứ 3",
-    "tiet": "5",
-    "lop": "12/8",
-    "mon": "CNCN 12",
-    "ppct": "21",
-    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t2)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "18/11/2026",
-    "thu": "Thứ 4",
-    "tiet": "1",
-    "lop": "12/12",
-    "mon": "HĐTN 12",
-    "ppct": "31",
-    "bai": "CĐ3 Hoàn thiện bản thân (t11)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "18/11/2026",
-    "thu": "Thứ 4",
-    "tiet": "3",
     "lop": "11/8",
     "mon": "CNCN 11",
     "ppct": "21",
@@ -1770,9 +1710,59 @@
     "tbdh": ""
   },
   {
+    "ngay": "17/11/2026",
+    "thu": "Thứ 3",
+    "tiet": "2",
+    "lop": "12/4",
+    "mon": "VẬT LÍ 12",
+    "ppct": "21",
+    "bai": "Bài 9. Định luật Boyle (2)",
+    "tbdh": "Bộ TN định luật Boyle"
+  },
+  {
+    "ngay": "17/11/2026",
+    "thu": "Thứ 3",
+    "tiet": "3",
+    "lop": "12/7",
+    "mon": "VẬT LÍ 12",
+    "ppct": "21",
+    "bai": "Bài 9. Định luật Boyle (2)",
+    "tbdh": "Bộ TN định luật Boyle"
+  },
+  {
+    "ngay": "17/11/2026",
+    "thu": "Thứ 3",
+    "tiet": "5",
+    "lop": "12/7",
+    "mon": "VẬT LÍ 12",
+    "ppct": "22",
+    "bai": "Bài 10. Định luật Charles (1)",
+    "tbdh": "TB chứng minh ĐL Charles"
+  },
+  {
     "ngay": "18/11/2026",
     "thu": "Thứ 4",
-    "tiet": "4",
+    "tiet": "1",
+    "lop": "12/4",
+    "mon": "VẬT LÍ 12",
+    "ppct": "22",
+    "bai": "Bài 10. Định luật Charles (1)",
+    "tbdh": "TB chứng minh ĐL Charles"
+  },
+  {
+    "ngay": "18/11/2026",
+    "thu": "Thứ 4",
+    "tiet": "2",
+    "lop": "12/8",
+    "mon": "CNCN 12",
+    "ppct": "21",
+    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t2)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "18/11/2026",
+    "thu": "Thứ 4",
+    "tiet": "3",
     "lop": "12/7",
     "mon": "HĐTN 12",
     "ppct": "31",
@@ -1784,6 +1774,26 @@
     "thu": "Thứ 4",
     "tiet": "5",
     "lop": "12/7",
+    "mon": "VẬT LÍ 12",
+    "ppct": "11CD",
+    "bai": "CĐ1-B4. Chỉnh lưu dòng điện xoay chiều (3)",
+    "tbdh": "Hộp mạch chỉnh lưu"
+  },
+  {
+    "ngay": "19/11/2026",
+    "thu": "Thứ 5",
+    "tiet": "1",
+    "lop": "12/4",
+    "mon": "CNCN 12",
+    "ppct": "21",
+    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t2)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "19/11/2026",
+    "thu": "Thứ 5",
+    "tiet": "3",
+    "lop": "12/7",
     "mon": "HĐTN 12",
     "ppct": "32",
     "bai": "CĐ3 Hoàn thiện bản thân (t12)",
@@ -1792,27 +1802,37 @@
   {
     "ngay": "19/11/2026",
     "thu": "Thứ 5",
-    "tiet": "1",
-    "lop": "12/4",
-    "mon": "VẬT LÍ 12",
-    "ppct": "22",
-    "bai": "Bài 10. Định luật Charles (1)",
-    "tbdh": "TB chứng minh ĐL Charles"
-  },
-  {
-    "ngay": "19/11/2026",
-    "thu": "Thứ 5",
-    "tiet": "2",
-    "lop": "12/4",
-    "mon": "CNCN 12",
-    "ppct": "22",
-    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t3)",
+    "tiet": "4",
+    "lop": "12/12",
+    "mon": "HĐTN 12",
+    "ppct": "31",
+    "bai": "CĐ3 Hoàn thiện bản thân (t11)",
     "tbdh": ""
   },
   {
     "ngay": "19/11/2026",
     "thu": "Thứ 5",
+    "tiet": "5",
+    "lop": "11/8",
+    "mon": "CNCN 11",
+    "ppct": "22",
+    "bai": "Bài 10. Dự án: Chế tạo sản phẩm bằng phương pháp gia công cắt gọt (t1)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "20/11/2026",
+    "thu": "Thứ 6",
     "tiet": "3",
+    "lop": "12/7",
+    "mon": "HĐTN 12",
+    "ppct": "33",
+    "bai": "CĐ3 Hoàn thiện bản thân (t13)",
+    "tbdh": ""
+  },
+  {
+    "ngay": "20/11/2026",
+    "thu": "Thứ 6",
+    "tiet": "4",
     "lop": "12/8",
     "mon": "CNCN 12",
     "ppct": "22",
@@ -1820,8 +1840,8 @@
     "tbdh": ""
   },
   {
-    "ngay": "19/11/2026",
-    "thu": "Thứ 5",
+    "ngay": "20/11/2026",
+    "thu": "Thứ 6",
     "tiet": "5",
     "lop": "12/12",
     "mon": "HĐTN 12",
@@ -1830,43 +1850,23 @@
     "tbdh": ""
   },
   {
-    "ngay": "20/11/2026",
-    "thu": "Thứ 6",
+    "ngay": "21/11/2026",
+    "thu": "Thứ 7",
     "tiet": "1",
-    "lop": "12/7",
-    "mon": "HĐTN 12",
-    "ppct": "33",
-    "bai": "CĐ3 Hoàn thiện bản thân (t13)",
+    "lop": "12/4",
+    "mon": "CNCN 12",
+    "ppct": "22",
+    "bai": "Bài 9: Thiết bị điện trong hệ thống điện gia đình (t3)",
     "tbdh": ""
   },
   {
-    "ngay": "20/11/2026",
-    "thu": "Thứ 6",
+    "ngay": "21/11/2026",
+    "thu": "Thứ 7",
     "tiet": "2",
-    "lop": "12/7",
-    "mon": "VẬT LÍ 12",
-    "ppct": "11CD",
-    "bai": "CĐ1-B4. Chỉnh lưu dòng điện xoay chiều (3)",
-    "tbdh": "Hộp mạch chỉnh lưu"
-  },
-  {
-    "ngay": "20/11/2026",
-    "thu": "Thứ 6",
-    "tiet": "3",
     "lop": "12/12",
     "mon": "HĐTN 12",
     "ppct": "33",
     "bai": "CĐ3 Hoàn thiện bản thân (t13)",
-    "tbdh": ""
-  },
-  {
-    "ngay": "20/11/2026",
-    "thu": "Thứ 6",
-    "tiet": "5",
-    "lop": "11/8",
-    "mon": "CNCN 11",
-    "ppct": "22",
-    "bai": "Bài 10. Dự án: Chế tạo sản phẩm bằng phương pháp gia công cắt gọt (t1)",
     "tbdh": ""
   }
 ]
